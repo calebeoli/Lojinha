@@ -21,7 +21,7 @@ A aplicação foi construída em Java utilizando o paradigma de Orientação a O
 
 ### 1. Diagrama de Atividades (UML)
 
-![Diagrama UML](UML.pdf)
+![Diagrama UML](UML_page-0001.jpg)
 
 
 ### 2. Diagrama Entidade-Relacionamento (DER)
